@@ -125,7 +125,7 @@ upmo-smart-agriculture/
 ## Getting started
 
 ```bash
-git clone https://github.com/<USER>/upmo-smart-agriculture.git
+git clone https://github.com/naimabouk/upmo-smart-agriculture.git
 cd upmo-smart-agriculture
 pip install -r requirements.txt
 
