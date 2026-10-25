@@ -146,9 +146,11 @@ equivalent) Pareto front. The paper's exact outputs are kept in `results/`.
 <!-- TODO: complete once the proceedings details are confirmed -->
 ```bibtex
 @inproceedings{boukhiar2026upmo,
-  title     = {[PAPER TITLE]},
-  author    = {Boukhiar, Naima and [CO-AUTHORS]},
-  booktitle = {Proceedings of the International Arab Conference on Information Technology (ACIT'2026)},
+  title     = {An Uncertainty-Aware Predictive
+Multi-Objective Optimization Framework for Smart
+Agriculture},
+  author    = {Boukhiar Naima and Sam },
+  booktitle = {Proceedings of the International Conference on Information Technology (ACIT'2026)},
   year      = {2026},
   note      = {Paper \#307}
 }
