@@ -149,7 +149,7 @@ equivalent) Pareto front. The paper's exact outputs are kept in `results/`.
   title     = {An Uncertainty-Aware Predictive
 Multi-Objective Optimization Framework for Smart
 Agriculture},
-  author    = {Boukhiar Naima and Sam },
+  author    = { Naima B and Sam },
   booktitle = {Proceedings of the International Conference on Information Technology (ACIT'2026)},
   year      = {2026},
   note      = {Paper \#307}
